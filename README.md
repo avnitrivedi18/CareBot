@@ -163,12 +163,12 @@ Future repository updates will include:
 
 ---
 
-## Performance Targets
+## Performance 
 
-| Metric                | Target           |
+| Metric                |  Performance     |
 | --------------------- | -----------------|
 | Dispensing Accuracy   | >95%             |
-| Missed Dose Detection | <5 seconds       |
+| Missed Dose Detection | <15 seconds       |
 | Cost of Prototype     | Under ₹4,000($42)|
 | Remote Monitoring     | Real-Time        |
 | System Availability   | 24/7 Operation   |
@@ -184,20 +184,16 @@ Future repository updates will include:
 * System Architecture Design
 * Feature Planning
 * Mechanical Concept Development
-
-### In Progress
-
 * CAD Modeling
 * Electronics Selection
 * Prototype Design
-
-### Planned
-
 * Hardware Integration
 * Mobile Application Development
 * IoT Dashboard Development
 * Testing and Validation
+### Planned
 * User Trials
+* Real setting testing
 
 ---
 
